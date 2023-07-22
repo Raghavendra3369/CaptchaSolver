@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+keras
+tensorflow
+pandas
+numpy
+opencv-python
+imutils
+pydantic
+python-multipart
